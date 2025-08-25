@@ -26,11 +26,11 @@ CREATE TABLE `contatos` (
 ```
 # Importando o Projeto no Eclipse
 
-0. No Eclipse, vá em:
+1. No Eclipse, vá em:
 File > Import > General > Projects from Folder or Archive
 Selecione o diretório do projeto (agenda).
 
-1. em Servers, vá em:
+2. em Servers, vá em:
 apache ( tomcat versão 11 ), next e selecione o diretorio do apache
 depois de criado, de 2 clicks no servidor Tomcat v11.0 Server at localhost, e marque a checkbox "Use Tomcat installation ( takes control of Tomcat installation )"
 
