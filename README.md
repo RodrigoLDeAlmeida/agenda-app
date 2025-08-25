@@ -4,7 +4,7 @@
 
 2. Acesse o MySQL com o usuário root. Use a senha definida durante a instalação.
 
-3. rie o banco de dados dbagenda:
+3. crie o banco de dados dbagenda:
 
 ```
 CREATE DATABASE `dbagenda`
