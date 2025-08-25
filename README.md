@@ -1,3 +1,14 @@
+# Tecnologias
+
+Servidor Tomcat  
+Java EE – Servlet e JSP  
+IDE Eclipse  
+MySQL (CRUD – Create Read Update Delete)  
+MVC (Model View Controller)  
+JavaBeans  
+JDBC (Java Database Connectivity)  
+iText  
+
 # Configuração do Banco de Dados
 
 1. Instale o MySQL Server e certifique-se de que está rodando em 127.0.0.1:3306.
