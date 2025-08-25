@@ -1,4 +1,4 @@
-# Task App
+# Agenda App
 
 Aplicação web para gerenciamento de agenda de contatos.
 
