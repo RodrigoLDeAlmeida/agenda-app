@@ -1,13 +1,17 @@
-# Tecnologias
+# Task App
 
-Servidor Tomcat  
-Java EE – Servlet e JSP  
-IDE Eclipse  
-MySQL (CRUD – Create Read Update Delete)  
-MVC (Model View Controller)  
-JavaBeans  
-JDBC (Java Database Connectivity)  
-iText  
+Aplicação web para gerenciamento de agenda de contatos.
+
+## Tecnologias
+
+- Servidor Tomcat  
+- Java EE – Servlet e JSP  
+- IDE Eclipse  
+- MySQL (CRUD – Create Read Update Delete)  
+- MVC (Model View Controller)  
+- JavaBeans  
+- JDBC (Java Database Connectivity)  
+- iText  
 
 # Configuração do Banco de Dados
 
